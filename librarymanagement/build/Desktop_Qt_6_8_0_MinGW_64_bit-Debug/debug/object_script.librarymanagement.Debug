@@ -1,0 +1,10 @@
+debug/borrowreturn.o
+debug/main.o
+debug/dashboard.o
+debug/manbooks.o
+debug/members.o
+debug/qrc_qmake_qmake_qm_files.o
+debug/moc_borrowreturn.o
+debug/moc_dashboard.o
+debug/moc_manbooks.o
+debug/moc_members.o

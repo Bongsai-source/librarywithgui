@@ -1,0 +1,10 @@
+release/borrowreturn.o
+release/main.o
+release/dashboard.o
+release/manbooks.o
+release/members.o
+release/qrc_qmake_qmake_qm_files.o
+release/moc_borrowreturn.o
+release/moc_dashboard.o
+release/moc_manbooks.o
+release/moc_members.o
